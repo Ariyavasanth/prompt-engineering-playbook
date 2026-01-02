@@ -1,3 +1,4 @@
+```md
 # Master Prompt Template
 
 ## ROLE
@@ -25,3 +26,5 @@ You are provided with a dataset containing:
 ## FORMAT
 - Table
 - Sorted by [criteria]
+
+```
